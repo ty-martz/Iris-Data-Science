@@ -1,2 +1,3 @@
 # Iris-Data-Science
-First model used to predict iris flower species. Using logistic regression and cross-validation
+Ty's first model used to predict iris flower species. Using logistic regression and cross-validation.
+Small dataset with only 150 datapoints
